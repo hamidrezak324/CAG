@@ -13,3 +13,5 @@ A FastAPI-based API to calculate Compound Annual Growth Rate (CAGR) from financi
 - Clone repo
 - Install dependencies with `requirements.txt`
 - Build with `Dockerfile` and run
+  
+![Diagram of Project](Diagram_of_Project.png)
